@@ -1,0 +1,111 @@
+---
+title: "LeetCode SQL 50 Problems"
+output: html_document
+---
+
+# LeetCode SQL 50 Problems
+
+1. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+
+2. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+
+3. [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+
+4. [Rank Scores](https://leetcode.com/problems/rank-scores/)
+
+5. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+
+6. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+
+7. [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+
+8. [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+
+9. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+
+10. [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
+
+11. [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
+
+12. [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
+
+13. [Trips and Users](https://leetcode.com/problems/trips-and-users/)
+
+14. [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
+
+15. [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
+
+16. [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)
+
+17. [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
+
+18. [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+
+19. [Employee Bonus](https://leetcode.com/problems/employee-bonus/)
+
+20. [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
+
+21. [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
+
+22. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
+
+23. [Average Selling Price](https://leetcode.com/problems/average-selling-price/)
+
+24. [Project Employees I](https://leetcode.com/problems/project-employees-i/)
+
+25. [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)
+
+26. [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/)
+
+27. [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
+
+28. [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)
+
+29. [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/)
+
+30. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)
+
+31. [Employee Project Allocation](https://leetcode.com/problems/employee-project-allocation/)
+
+32. [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
+
+33. [Article Views I](https://leetcode.com/problems/article-views-i/)
+
+34. [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
+
+35. [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
+
+36. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
+
+37. [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/)
+
+38. [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/)
+
+39. [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)
+
+40. [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)
+
+41. [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/)
+
+42. [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)
+
+43. [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)
+
+44. [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)
+
+45. [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)
+
+46. [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)
+
+47. [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/)
+
+48. [Exchange Seats](https://leetcode.com/problems/exchange-seats/)
+
+49. [Movie Rating](https://leetcode.com/problems/movie-rating/)
+
+50. [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)
+
+51. [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)
+
+52. [Investments in 2016](https://leetcode.com/problems/investments-in-2016/)
+
